@@ -1,0 +1,9 @@
+@use 'sass:math';
+@import '../../Styles/colours.scss';
+
+.home {
+  display: flex;
+  height: calc(100vh - 5.75em);
+  align-items: center;
+  justify-content: center;
+}
